@@ -1,5 +1,5 @@
 ### Name: Ganesh G.
-### Reg No>: 212223230059
+### Reg No.: 212223230059
 ### Expriment 3
 
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
